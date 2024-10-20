@@ -1,6 +1,6 @@
 
 // Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
-const API_KEY = '2eaa1563b76ab36a6c7d7f04118ab2ec';
+const API_KEY = 'fa8ff08028663a01dac70c7e7083b1e1';
 const CITY = 'Brampton'; // You can change this to any city of your choice
 const WEATHER_API_URL = `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${API_KEY}&units=metric`;
 
